@@ -1,0 +1,31 @@
+html {
+    /* 1rem = 10px */
+    font-size: 62.5%;
+  }
+  
+  body {
+    font-size: 1.6rem;
+  }
+  
+  .grid {
+    width: 400px;
+    height: 600px;
+    background-image: url("https://raw.githubusercontent.com/kubowania/Doodle-Jump/master/background.png");
+    position: relative;
+    font-size: 100px;
+    text-align: center;
+  }
+  
+  .doodler {
+    width: 87px;
+    height: 85px;
+    background-image: url("https://raw.githubusercontent.com/kubowania/Doodle-Jump/master/doodler-guy.png");
+    position: absolute;
+  }
+  .platform {
+    width: 8.5rem;
+    height: 1.5rem;
+    background-color: #adff2f;
+    position: absolute;
+  }
+  
